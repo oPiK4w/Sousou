@@ -1,0 +1,21 @@
+{
+  "name": "hyzobot",
+  "version": "1.0.0",
+  "description": "Ce bot est u bor publique mais principalement le bot du serveur HyzoFight",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "fs-extra": "^7.0.0",
+    "opusscript": "0.0.6",
+    "ytdl-core": "^0.28.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BlaBla"
+  ],
+  "author": "Code&Play",
+  "license": "ISC"
+}
